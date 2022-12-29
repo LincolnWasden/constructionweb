@@ -109,7 +109,7 @@ section {
       -ms-flex-pack: justify;
           justify-content: space-between;
   z-index: 1000;
-  background: var(--white);
+  background: var(--black);
 }
 
 .header .logo {
