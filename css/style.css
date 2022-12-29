@@ -1,14 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap");
 :root {
   --black:#111;
-  --white:#fff;
+  --white:#111;
   --light-color:#666;
-  --light-bg:#eee;
+  --light-bg:#111;
   --box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
   --border:.1rem solid rgba(0,0,0,.3);
   --fordgrey: #3C3837; 
   --ferrarired: #CC0000;
-  --white:#FFFFFF;
+  --white:#111;
   --bentleyblack: #000000;
   --lightblue: #337AF1;
 }
