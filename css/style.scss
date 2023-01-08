@@ -41,7 +41,7 @@
    width: 5rem;
    line-height: 5rem;
    font-size: 2rem;
-   background: var(--light-bg);
+   background: var(--black);
    color:var(--black);
    cursor: pointer;
    text-align: center;
@@ -87,7 +87,7 @@ section{
    margin-top: 1rem;
    padding:1rem 3rem;
    background: var(--black);
-   color:var(--white);
+   color:var(--black);
    cursor: pointer;
    font-size: 1.7rem;
    text-transform: capitalize;
@@ -185,7 +185,7 @@ section{
       top:120%; left:50%;
       transform: translateX(-50%);
       width: 40rem;
-      background: var(--white);
+      background: var(--black);
       box-shadow: var(--box-shadow);
       padding:2rem;
       text-align: center;
